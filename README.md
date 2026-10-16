@@ -1,3 +1,5 @@
+> 本评测现已收录到通用评测仓库：[pexoai/ai-evaluations](https://github.com/pexoai/ai-evaluations/tree/main/evaluations/wildlife-photography-2026)。后续新增评测统一放在那里，本仓库保留原实验记录。
+
 # AI和人类评委为什么选得不一样？
 
 一次野生动物摄影评选实验：用第62届成年组公开获奖材料重建16件候选，让四个多模态模型独立选择年度冠军，再与人类评委的选择对照。
