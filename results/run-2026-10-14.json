@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-14",
+  "runs_per_model": 1,
+  "results": [
+    {
+      "model_label": "GPT‑6.1",
+      "model_id": null,
+      "verification": "用户指定的界面标签；后端ID未独立核验",
+      "channel": "desktop chat",
+      "top3": [
+        "C09",
+        "C08",
+        "C14"
+      ]
+    },
+    {
+      "model_label": "Gemini 3.8 Flash",
+      "model_id": "gemini-3.8-flash",
+      "verification": "API返回modelVersion记录",
+      "channel": "native Gemini API",
+      "top3": [
+        "C09",
+        "C14",
+        "C13"
+      ],
+      "status": {
+        "returned_model": "gemini-3.8-flash",
+        "finish": "STOP",
+        "nonempty": true,
+        "seconds": 165.4
+      }
+    },
+    {
+      "model_label": "Opus 5.5",
+      "model_id": "claude-opus-5-5",
+      "verification": "用户提交报告中记录，非本项目API返回核验",
+      "channel": "Claude Code desktop",
+      "top3": [
+        "C13",
+        "C09",
+        "C03"
+      ]
+    },
+    {
+      "model_label": "Seed 2.1 Pro",
+      "model_id": "doubao-seed-2-1-pro-260628",
+      "verification": "API返回model记录",
+      "channel": "Ark API streaming",
+      "top3": [
+        "C13",
+        "C09",
+        "C08"
+      ],
+      "status": {
+        "requested_model": "doubao-seed-2-1-pro-260628",
+        "mode": "full16_detailed_stream",
+        "started_utc": "2026-10-14T08:00:20.842532",
+        "http": 200,
+        "returned_model": "doubao-seed-2-1-pro-260628",
+        "first_content_seconds": 556.1,
+        "finish_reason": "stop",
+        "ok": true,
+        "seconds": 660.9,
+        "chunks": 10383,
+        "answer_chars": 9941,
+        "reasoning_chars": 5705
+      }
+    }
+  ],
+  "official_grand_winner": "C14",
+  "official_runner_up_ranks": null
+}

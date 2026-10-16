@@ -1,0 +1,12 @@
+images/
+model-input/
+.env*
+__pycache__/
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.wav
+*.mp3
+.DS_Store

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "C01",
+    "filename": "C01.jpg",
+    "title": "A Watchful Eye",
+    "photographer": "Aaron Sanders",
+    "category": "Animal Portraits",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-a-watchful-eye",
+    "sha256": "ba36f49724f7d521879e9cd10024f1b9c965cdf6df49cfde59892a264b15afe1",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C02",
+    "filename": "C02.jpg",
+    "title": "The Meeting Place",
+    "photographer": "James Lewin",
+    "category": "Animals in their Environment",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-the-meeting-place",
+    "sha256": "ece0dd1fc34bb819203dbfc7ec51ec480c73d8cc5bd7a261a6a82d98b271ddab",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C03",
+    "filename": "C03.jpg",
+    "title": "Night-Time Catch",
+    "photographer": "Alex Lindbloom",
+    "category": "Oceans – The Bigger Picture",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-night-time-catch",
+    "sha256": "089c5a49fb08a45f64a53a34b72fb32e0ef283bd5c7b3cada6ce244cbea6405b",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C04",
+    "filename": "C04.jpg",
+    "title": "Scenes from the Swamp",
+    "photographer": "Isak Pretorius",
+    "category": "Behaviour: Birds",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-scenes-from-the-swamp",
+    "sha256": "d1717fcf1008cfbe6010f0aa18e83c5501a0d1d6dd2e1deade09ace35ef1d419",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C05",
+    "filename": "C05.jpg",
+    "title": "On the Outskirts",
+    "photographer": "Loren Elliott",
+    "category": "Photojournalist Story Award",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-on-the-outskirts",
+    "sha256": "79c08bf3b5fcd721aa05b4ab33f7803fc9ed48e29a7dc24ef41cf004c77fb6a9",
+    "series_representative_proxy": true
+  },
+  {
+    "id": "C06",
+    "filename": "C06.jpg",
+    "title": "Escape Artistry",
+    "photographer": "Michał Michalski",
+    "category": "Natural Artistry",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-escape-artistry",
+    "sha256": "68cf5afea4ac381e3597fd3d8f21db7525ab46a3684a8c8aab88dabc28a7410f",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C07",
+    "filename": "C07.jpg",
+    "title": "Urban Jungle",
+    "photographer": "Seth Forestson",
+    "category": "Urban Wildlife",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-urban-jungle",
+    "sha256": "eeaf77d10228b1823447d853743d05fc81e9be29ca0db8496fcf7609433f58f3",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C08",
+    "filename": "C08.jpg",
+    "title": "Protective Pose",
+    "photographer": "Anton Sorokin",
+    "category": "Behaviour: Amphibians and Reptiles",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-protective-pose",
+    "sha256": "2f8505a35dcc86c78a48cdb41bec5e1c6bc9468ee3f1531fa7832df899011473",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C09",
+    "filename": "C09.jpg",
+    "title": "Making Morays",
+    "photographer": "Tony Wu",
+    "category": "Underwater",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-making-morays",
+    "sha256": "f89ffc36345517dc077daa073ec330888ef80ef1bff0f1c2526500d8721f104f",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C10",
+    "filename": "C10.jpg",
+    "title": "Shifting Sand",
+    "photographer": "Sitaram Raul",
+    "category": "Behaviour: Invertebrates",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-shifting-sand",
+    "sha256": "7714a730d6e7b5f0258113ba7a23c394b534ad4a55621f374fc7600f01b84755",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C11",
+    "filename": "C11.jpg",
+    "title": "Shedding Light",
+    "photographer": "Agorastos Papatsanis",
+    "category": "Plants and Fungi",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-shedding-light",
+    "sha256": "20f1a20d5ed1b1d1431575ffc6e41c0fdee4fa8ddf0c7ad59923f8428b2ce952",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C12",
+    "filename": "C12.jpg",
+    "title": "Afternoon Snack",
+    "photographer": "Alexis Tinker-Tsavalas",
+    "category": "Rising Star Portfolio Award",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-afternoon-snack",
+    "sha256": "f3cdd62abf951be87f72d7e19f02cbe4cd36e95556f29b29b0a1995c0c75cf30",
+    "series_representative_proxy": true
+  },
+  {
+    "id": "C13",
+    "filename": "C13.jpg",
+    "title": "Warning Sign",
+    "photographer": "Francisco Negroni",
+    "category": "Photojournalism",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-warning-sign",
+    "sha256": "f9ddb34b3b8af66d1aa237dccd1aea3cafe8f397360886a2adeeabd490f2551a",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C14",
+    "filename": "C14.jpg",
+    "title": "The Aftermath",
+    "photographer": "Federico Veronesi",
+    "category": "Behaviour: Mammals",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-the-aftermath",
+    "sha256": "7a5e6765f7e5a9d63f8eb27a81ef6e9cfce82c1ce4c4e824eed1f0657fbb3efd",
+    "series_representative_proxy": false
+  },
+  {
+    "id": "C15",
+    "filename": "C15.jpg",
+    "title": "Tiny Dancers",
+    "photographer": "Kutub Uddin",
+    "category": "Portfolio Award",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-tiny-dancers",
+    "sha256": "d77792e0d646d172a8ecc6e393c1a33d298bf5f5f19d7ec84cb59992a377db1a",
+    "series_representative_proxy": true
+  },
+  {
+    "id": "C16",
+    "filename": "C16.jpg",
+    "title": "The Great Divide",
+    "photographer": "Alex Visbal",
+    "category": "Wetlands - The Bigger Picture",
+    "official_page": "https://www.nhm.ac.uk/wpy/gallery/2026-the-great-divide",
+    "sha256": "7c1ef3e7fe54843ed793bff98e274aac04124b712b8b712f69330e825383a09b",
+    "series_representative_proxy": false
+  }
+]
